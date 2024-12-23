@@ -17,9 +17,6 @@ importers:
       react-dom:
         specifier: ^19.0.0
         version: 19.0.0(react@19.0.0)
-      vercel:
-        specifier: ^39.2.2
-        version: 39.2.2
     devDependencies:
       '@cloudflare/next-on-pages':
         specifier: ^1.13.7
@@ -36,6 +33,9 @@ importers:
       typescript:
         specifier: ^5
         version: 5.7.2
+      vercel:
+        specifier: ^39.2.2
+        version: 39.2.2
 
 packages:
 
